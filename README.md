@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Let0xik</h1>
+<h1 align="center">👋 Hey, I'm LeT0xik</h1>
 <h3 align="center">🇪🇸 Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
